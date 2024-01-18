@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AkiSuma
+- 😳 I’m trying to build my own ChatBot (free)
+- 😡 I’m currently learning how to install stuff on Flowise
+- 🫣 I’m looking for help (non coder)
+- ✍️ How to reach me akisumawaki(@)proton.me
